@@ -3,3 +3,6 @@
  
  1-chicken
  2-ghir
+ 
+ 3-biriyani
+ 4-chicken mandhi
